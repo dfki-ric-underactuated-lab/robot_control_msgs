@@ -1,0 +1,4 @@
+robot_control_msgs/RigidBodyState floating_base_state
+robot_control_msgs/JointState joint_state
+robot_control_msgs/Contacts contacts
+geometry_msgs/Wrench[] contact_wrenches
