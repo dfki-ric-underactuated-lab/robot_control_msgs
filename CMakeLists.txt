@@ -21,6 +21,7 @@ set(msg_files
   "msg/JointState.msg"
   "msg/JointCommand.msg"
   "msg/Contacts.msg"
+  "msg/ControlTarget.msg"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
