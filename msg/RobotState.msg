@@ -1,4 +1,4 @@
-time stamp
+builtin_interfaces/Time stamp
 
 robot_control_msgs/RigidBodyState floating_base_state
 robot_control_msgs/JointState joint_state
